@@ -26,3 +26,10 @@ img {
 h1, h2, h3, h4 {
     color: #222;
 }
+
+.lefty {
+    text-align: left;
+    margin: 0 auto;
+    max-width: 600px;
+}
+
